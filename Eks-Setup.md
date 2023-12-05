@@ -54,7 +54,7 @@ $ kubectl get nodes
 
 **Note: We should be able to see EKS cluster nodes here.**
 
-# We are done with our Setup #
+We are done with our Setup
 	
 ## Step - 4 : After your practise, delete Cluster and other resources we have used in AWS Cloud to avoid billing ##
 
